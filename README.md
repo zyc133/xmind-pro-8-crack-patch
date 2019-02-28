@@ -58,6 +58,19 @@
 > XAka34A2rVRYJ4XBIU35UZMUEEF64CMMIYZCK2FZZUQNODEKUHGJLFMSLIQMQUCUBXRENLK6NZL37JXP4PZXQFILMQ2RG5R7G4QNDO3PSOEUBOCDRYSSXZGRARV6MGA33TN2AMUBHEL4FXMWYTTJDEINJXUAV4BAYKBDCZQWVF3LWYXSDCXY546U3NBGOI3ZPAP2SO3CSQFNB7VVIY123456789012345
 
 
+常见问题：
+
+    问题一：出现错误信息“验证失败，可能为XMind 2013 Pro序列号。”
+
+    解决方案：检查第第二步路径是否正确，我也遇见过这个问题；
+
+    问题二：激活后，软件恢复未激活状态；
+
+    解决方案：1、检查第三步，更换一个新的邮箱（随意输），重新激活即可；
+
+                      2、经过检查，可能是官网修复了漏洞，解决方案1可以解决问题，也可安装上一个版本的安装包漏洞应该没有被修复；
+
+
 # 附
 
 by CodeCracker @ Team SND（原始序列号）
